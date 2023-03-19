@@ -1,8 +1,0 @@
-numpy
-scipy
-pandas
-matplotlib==3.*
-tensorflow
-keras
-matlabengine==9.13.7
-ipynb
