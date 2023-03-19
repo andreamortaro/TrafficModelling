@@ -1,0 +1,12 @@
+name: tesi
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - notebook
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - tensorflow
+prefix: /home/andrea/anaconda3/envs/tesi
