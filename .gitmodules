@@ -1,0 +1,3 @@
+[submodule "NN-interaction"]
+	path = NN-interaction
+	url = https://github.com/ctotzeck/NN-interaction
