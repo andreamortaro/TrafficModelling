@@ -5,6 +5,7 @@ matplotlib==3.*
 tensorflow
 keras
 ipynb
+sklearn
 git+https://github.com/titu1994/tfdiffeq.git
 jaxlib==0.3.25
 jax==0.3.25
