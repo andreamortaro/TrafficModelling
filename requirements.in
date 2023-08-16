@@ -1,3 +1,5 @@
+# To install pip-compile: pip install pip-tools
+# To generate requirements.txt: pip-compile -v requirements.in
 numpy
 scipy
 pandas
@@ -5,7 +7,7 @@ matplotlib==3.*
 tensorflow
 keras
 ipynb
-sklearn
+scikit-learn
 git+https://github.com/titu1994/tfdiffeq.git
 jaxlib==0.3.25
 jax==0.3.25
