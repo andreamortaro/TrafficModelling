@@ -1,4 +1,4 @@
-# master-thesis
+# Data-driven modelling and calibration of multi-agent systems
 This repository contains all the codes for my master's thesis.
 
 ## How to see and share this repo
@@ -9,3 +9,10 @@ In order to see my Jupyter Notebooks I built a Docker image of this repo making 
 You can find it [here](https://mybinder.org/v2/gh/andreamortaro/master-thesis/main) or click on the above badge.
 
 Otherwise you can render my notebooks by using nbviewer, but the code in the link is not executable: [nb_viewer of my repo](https://nbviewer.org/github/andreamortaro/master-thesis/tree/main/).
+
+
+## License
+
+All the codes are released under the MIT License. See [License](https://github.com/andreamortaro/master-thesis/blob/main/LICENSE) for more details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
